@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6, figure {
   z-index: 1001;
 }
 .fh5co-nav .top-menu {
-  padding: 22px 0;
+  /*padding: 22px 0;*/
 }
 .fh5co-nav .top {
   border-bottom: 1px solid rgba(0, 0, 0, 0.08);
@@ -482,7 +482,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .fh5co-counters {
-  padding: 7em 0;
+
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
